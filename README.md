@@ -8,3 +8,7 @@ Prompt Deep Optimization Tool, which can maximize the quality of prompts and thu
 ## 🚀 在线体验
 立即体验提示词优化效果：[提示词优化助手](https://nmpx4051518.vicp.fun/optimize_server/prompt)
 点击获取免费使用账号：[一键获取免费使用账号](https://nmpx4051518.vicp.fun/optimize_server/apply)
+
+
+立即体验提示词优化效果：<a href="https://nmpx4051518.vicp.fun/optimize_server/prompt" target="_blank" rel="noopener noreferrer">提示词优化助手</a>
+点击获取免费体验账号：<a href="https://nmpx4051518.vicp.fun/optimize_server/apply" target="_blank" rel="noopener noreferrer">一键获取免费账号</a>
