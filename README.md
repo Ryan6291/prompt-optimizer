@@ -10,5 +10,8 @@ Prompt Deep Optimization Tool, which can maximize the quality of prompts and thu
 点击获取免费使用账号：[一键获取免费使用账号](https://nmpx4051518.vicp.fun/optimize_server/apply)
 
 
-立即体验提示词优化效果：<a href="https://nmpx4051518.vicp.fun/optimize_server/prompt" target="_blank" rel="noopener noreferrer">提示词优化助手</a>
-点击获取免费体验账号：<a href="https://nmpx4051518.vicp.fun/optimize_server/apply" target="_blank" rel="noopener noreferrer">一键获取免费账号</a>
+
+## 📊 优化效果示例
+仓库中提供了丰富的优化前后对比示例，可参考：`./src/datas/example.txt`
+该示例文件完整展示了从原始模糊提示词，到经过本工具优化后精准、结构化提示词的全过程，优化后的提示词在AI生成结果的相关性、准确性上提升显著，能够直观体现本工具的核心价值。
+
